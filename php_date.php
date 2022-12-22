@@ -4,7 +4,7 @@
 //echo date("d");//02
 //echo date("D");//fri
 //echo date("m").PHP_EOL;//09
-//$i = readline("Enter todate date");
+//$i = readline("Enter today date");
 //echo "Today date is $i";
 //echo "Today is " . date("Y/m/d") .PHP_EOL;//2022/09/02
 //echo "Today is " . date("Y.m.d") .PHP_EOL;//2022.09.02
